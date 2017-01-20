@@ -31,8 +31,8 @@ section { margin-top: 15px; background-color: #FFF; }
 #winter { background-position: -438px 0; }
 
 .spring { color: #6ebd1a; }
-.summer { color: #f8a40a; }
-.autumn { color: #930d03; }
+.summer { color: yellow; }
+.autumn { color: orange; }
 .winter { color: #02c5e5; }
 
 .main-copy { background-color: #FFF; font-size: 1.5em; }
